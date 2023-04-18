@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emrehan</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-- 🌱 I’m currently learning **PowerBI**
+- 🌱 I’m currently learning **PowerBI** and **ODI**
 
 - 📫 How to reach me **emrehan.kisacik@gmail.com**
 
